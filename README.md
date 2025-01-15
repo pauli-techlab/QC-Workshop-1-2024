@@ -52,5 +52,9 @@ pip install -r requirements.txt
 
 ---
 
+# D-wave API signup
 
+Reqister account here in order to get your API keys.
+
+https://cloud.dwavesys.com/leap/signup
 
