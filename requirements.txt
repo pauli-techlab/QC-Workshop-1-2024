@@ -1,0 +1,12 @@
+jupyter
+ipython
+numpy
+numpyarray-to-latex
+dimod
+matplotlib
+scipy
+pandas
+dwave-ocean-sdk
+scikit-learn
+seaborn
+ipykernel
