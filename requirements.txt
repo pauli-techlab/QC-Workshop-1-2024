@@ -10,3 +10,4 @@ dwave-ocean-sdk
 scikit-learn
 seaborn
 ipykernel
+matplotlib
