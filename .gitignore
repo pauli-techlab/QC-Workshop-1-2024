@@ -1,3 +1,7 @@
 .DS_Store
 env
 Py4ti2
+2 - Quantum Annealing & QUBO problems/results_filtered_simulatedAnnealing
+2 - Quantum Annealing & QUBO problems/results_Synthetic_QUBO_simulatedAnnealing
+2 - Quantum Annealing & QUBO problems/QUBO.csv
+2 - Quantum Annealing & QUBO problems/QUBO-data/QUBO.csv
