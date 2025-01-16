@@ -49,6 +49,12 @@ pip install -r requirements.txt
 - If you encounter issues with the `dwave-ocean-sdk` package, ensure you have a compatible version of Python installed
 - For detailed documentation on using `dwave-ocean-sdk`, refer to [D-Wave's official documentation](https://docs.ocean.dwavesys.com/).
 
+This page describes the dwave-optimization package’s nonlinear model: classes, attributes, and methods.
+- https://docs.ocean.dwavesys.com/en/stable/docs_optimization/reference/models.html#dwave.optimization.model.Model
+Here are some examples for nonlinear models:
+- https://docs.ocean.dwavesys.com/en/stable/getting_started.html#nonlinear-models
+
+
 
 ---
 
